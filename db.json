@@ -1,0 +1,34 @@
+{
+  "tekken": [
+    {
+      "nome": "Yoshimitsu",
+      "estilo_luta": "Majin Ninjutsu",
+      "nacionalidade": "Japão",
+      "id": "865b"
+    },
+    {
+      "nome": "Nina Willians",
+      "estilo_luta": "Assassinato",
+      "nacionalidade": "Irlanda",
+      "id": "481e"
+    },
+    {
+      "nome": "Leroy Smith",
+      "estilo_luta": "Wing Chu",
+      "nacionalidade": "Estados Unidos",
+      "id": "b40c"
+    },
+    {
+      "nome": "Jin Kazama",
+      "estilo_luta": "Karatê Estilo Kazama",
+      "nacionalidade": "Japão",
+      "id": "fbee"
+    },
+    {
+      "id": "9e32",
+      "nome": "",
+      "estilo_luta": "",
+      "nacionalidade": ""
+    }
+  ]
+}
