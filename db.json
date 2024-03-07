@@ -25,10 +25,20 @@
       "id": "fbee"
     },
     {
-      "id": "9e32",
-      "nome": "",
-      "estilo_luta": "",
-      "nacionalidade": ""
+      "id": "42e1",
+      "__v_isShallow": false,
+      "dep": {},
+      "__v_isRef": true,
+      "_rawValue": {
+        "nome": "Steve Fox",
+        "estilo_luta": "Box",
+        "nacionalidade": "Inglaterra"
+      },
+      "_value": {
+        "nome": "Steve Fox",
+        "estilo_luta": "Box",
+        "nacionalidade": "Inglaterra"
+      }
     }
   ]
 }

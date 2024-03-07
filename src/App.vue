@@ -1,6 +1,6 @@
 <script setup lang="ts">
 import { useTekkenStore } from './stores/TekkenStore';
-import TekkenList from './components/TekkenList.vue';
+import TekkenTable from './components/TekkenTable.vue';
 import NavbarComponent from './components/NavbarComponent.vue';
 import FormComponent from './components/FormComponent.vue';
 import { ref } from 'vue';
@@ -22,7 +22,7 @@ const handleSubmit = () => {
   <div v-else>
     <NavbarComponent />
     <FormComponent :lutador="novoLutador" @handle-submit="handleSubmit" />
-    <TekkenList :lutadores="tekkenStore.lutadores" />
+    <TekkenTable :lutadores="tekkenStore.lutadores" />
   </div>
 
 </template>
